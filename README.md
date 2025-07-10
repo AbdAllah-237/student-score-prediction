@@ -47,7 +47,7 @@ The polynomial model added curve flexibility but did not outperform the linear o
 
 ## 📈 Visualizations
 
-![plot](Student_Score_Prediction/preview.png)
+![plot](Student_Score_Prediction/PreviewPng.png)
 
 ---
 
